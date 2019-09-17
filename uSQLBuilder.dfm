@@ -1922,8 +1922,8 @@ object frmSqlBuilder: TfrmSqlBuilder
     Enabled = False
     Interval = 1500
     OnTimer = Timer1Timer
-    Left = 408
-    Top = 312
+    Left = 448
+    Top = 256
   end
   object dxBarManager1: TdxBarManager
     Font.Charset = DEFAULT_CHARSET

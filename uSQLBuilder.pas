@@ -18,7 +18,8 @@ uses
   dxGDIPlusClasses, dxRichEdit.NativeApi, dxRichEdit.Types, dxRichEdit.Options,
   dxRichEdit.Control, dxRichEdit.Control.SpellChecker,
   dxRichEdit.Dialogs.EventArgs, dxBarBuiltInMenu,
-  dxRichEdit.Platform.Win.Control, dxRichEdit.Control.Core, Vcl.DBCGrids,
+  dxRichEdit.Platform.Win.Control, dxRichEdit.Control.Core,
+  Vcl.DBCGrids,
   Vcl.DBCtrls;
 
 type
