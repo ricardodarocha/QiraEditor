@@ -12,6 +12,8 @@ RestDW
 
 # Features
 Conecte no banco de dados para obter o mapa de tabelas e de campos
-Acompanhe a SQL em tempo real
-Utilize palavras chaves e modelos de auto completar
+Recurso de autocompletar
+Hightlighter da linguagem SQL
+Recursos de Drag and Drop (arrastar e soltar)
+Preprocessa a SQL em tempo real
 Grave as consultas no banco de dados dos indicadores
