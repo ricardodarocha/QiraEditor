@@ -9,3 +9,9 @@ As vantagens de utilizar o QIRAEditor é usar as melhores práticas de SQL e mon
 SynEdit
 Ribbon
 RestDW
+
+# Features
+Conecte no banco de dados para obter o mapa de tabelas e de campos
+Acompanhe a SQL em tempo real
+Utilize palavras chaves e modelos de auto completar
+Grave as consultas no banco de dados dos indicadores
